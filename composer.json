@@ -11,6 +11,6 @@
     "role": "Developor (adapting source code to fit needs)"
   }],
   "autoload": {
-    "classmap": ["scr/MarketplaceWebServiceOrders/"]
+    "classmap": ["src/MarketplaceWebServiceOrders/"]
   }
 }
