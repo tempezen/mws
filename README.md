@@ -44,3 +44,14 @@
 *   Copyright 2009-2016 Amazon Services. All Rights Reserved.
 *   License: http://aws.amazon.com/apache2.0  Apache License, Version 2.0
 *   _(The original code has been modified)_
+  
+#### FBA Inventory Service MWS:
+*   Original source code downloaded from:  
+        https://developer.amazonservices.com/doc/fulfillment/inventory/v20101001/php.html/131-9124958-1971146
+*   Originally designed for PHP 5; Code adapted to work in PHP 7+.
+*   Version: 2010-10-01
+*   Library Version: 2014-09-30
+*   Original, pre-adapted version generated: Wed May 04 17:14:15 UTC 2016
+*   Copyright 2009-2016 Amazon Services. All Rights Reserved.
+*   License: http://aws.amazon.com/apache2.0  Apache License, Version 2.0
+*   _(The original code has been modified)_

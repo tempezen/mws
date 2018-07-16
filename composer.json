@@ -15,7 +15,8 @@
       "src/MarketplaceWebService/",
       "src/MarketplaceWebServiceOrders/",
       "src/MWSFinancesService/",
-      "src/FBAInboundServiceMWS/"
+      "src/FBAInboundServiceMWS/",
+      "src/FBAInventoryServiceMWS/"
     ]
   }
 }
