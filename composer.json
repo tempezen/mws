@@ -13,7 +13,8 @@
   "autoload": {
     "classmap": [
       "src/MarketplaceWebService/",
-      "src/MarketplaceWebServiceOrders/"
+      "src/MarketplaceWebServiceOrders/",
+      "src/MWSFinancesService/"
     ]
   }
 }
