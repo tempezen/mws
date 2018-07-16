@@ -20,7 +20,7 @@
  *  @see MarketplaceWebService_Interface
  */
 require_once (dirname(__FILE__) . '/Interface.php');
-require_once (dirname(__FILE__) . 'RequestType.php');
+require_once (dirname(__FILE__) . '/RequestType.php');
 
 define('CONVERTED_PARAMETERS_KEY', 'PARAMETERS');
 define('CONVERTED_HEADERS_KEY', 'HEADERS');
