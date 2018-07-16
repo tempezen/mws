@@ -14,7 +14,8 @@
     "classmap": [
       "src/MarketplaceWebService/",
       "src/MarketplaceWebServiceOrders/",
-      "src/MWSFinancesService/"
+      "src/MWSFinancesService/",
+      "src/FBAInboundServiceMWS/"
     ]
   }
 }

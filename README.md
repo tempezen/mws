@@ -33,3 +33,14 @@
 *   Copyright 2009-2018 Amazon Services. All Rights Reserved.
 *   License: http://aws.amazon.com/apache2.0  Apache License, Version 2.0
 *   _(The original code has been modified)_
+  
+#### FBA Inbound Service MWS:
+*   Original source code downloaded from:  
+        https://developer.amazonservices.com/doc/fulfillment/inbound/v20101001/php.html/140-7158072-2426762
+*   Originally designed for PHP 5; Code adapted to work in PHP 7+.
+*   Version: 2010-10-01
+*   Library Version: 2016-10-05
+*   Original, pre-adapted version generated: Wed Oct 05 06:15:45 PDT 2016
+*   Copyright 2009-2016 Amazon Services. All Rights Reserved.
+*   License: http://aws.amazon.com/apache2.0  Apache License, Version 2.0
+*   _(The original code has been modified)_
