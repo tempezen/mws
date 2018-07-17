@@ -66,3 +66,14 @@
 *   Copyright 2009-2016 Amazon Services. All Rights Reserved.
 *   License: http://aws.amazon.com/apache2.0  Apache License, Version 2.0
 *   _(The original code has been modified)_
+  
+#### MWS Merchant Fulfillment Service:
+*   Original source code downloaded from:  
+        https://developer.amazonservices.com/doc/merchantfulfillment/merchantfulfillment/v20150601/php.html/131-9124958-1971146
+*   Originally designed for PHP 5; Code adapted so that it also works in PHP 7+.
+*   Version: 2015-06-01
+*   Library Version: 2016-03-30
+*   Original, pre-adapted version generated: Fri Nov 11 06:01:18 PST 2016
+*   Copyright 2009-2016 Amazon Services. All Rights Reserved.
+*   License: http://aws.amazon.com/apache2.0  Apache License, Version 2.0
+*   _(The original code has been modified)_

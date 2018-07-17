@@ -17,7 +17,8 @@
       "src/MWSFinancesService/",
       "src/FBAInboundServiceMWS/",
       "src/FBAInventoryServiceMWS/",
-      "src/FBAOutboundServiceMWS/"
+      "src/FBAOutboundServiceMWS/",
+      "src/MWSMerchantFulfillmentService/"
     ]
   }
 }
