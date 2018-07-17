@@ -110,3 +110,14 @@
 *   Copyright 2009-2015 Amazon Services. All Rights Reserved.
 *   License: http://aws.amazon.com/apache2.0  Apache License, Version 2.0
 *   _(The original code has been modified)_
+  
+#### MWS Subscriptions Service:
+*   Original source code downloaded from:  
+        https://developer.amazonservices.com/doc/subscriptions/subscriptions/v20130701/php.html/131-9124958-1971146
+*   Originally designed for PHP 5; Code adapted so that it also works in PHP 7+.
+*   Version: 2013-07-01
+*   Library Version: 2015-06-18
+*   Original, pre-adapted version generated: Thu Jun 18 19:27:20 GMT 2015
+*   Copyright 2009-2015 Amazon Services. All Rights Reserved.
+*   License: http://aws.amazon.com/apache2.0  Apache License, Version 2.0
+*   _(The original code has been modified)_

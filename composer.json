@@ -21,7 +21,8 @@
       "src/FBAOutboundServiceMWS/",
       "src/MWSMerchantFulfillmentService/",
       "src/MWSRecommendationsSectionService/",
-      "src/MarketplaceWebServiceSellers/"
+      "src/MarketplaceWebServiceSellers/",
+      "src/MWSSubscriptionsService/"
     ]
   }
 }
