@@ -18,7 +18,8 @@
       "src/FBAInboundServiceMWS/",
       "src/FBAInventoryServiceMWS/",
       "src/FBAOutboundServiceMWS/",
-      "src/MWSMerchantFulfillmentService/"
+      "src/MWSMerchantFulfillmentService/",
+      "src/MarketplaceWebServiceProducts/"
     ]
   }
 }
