@@ -7,8 +7,8 @@
     "name": "Amazon Technologies, Inc",
     "homepage": "https://developer.amazonservices.com/"
   }, {
-    "name": "John Silkey",
-    "role": "Developor (adapting source code to fit needs)"
+    "name": "Walts TV Dev Team",
+    "role": "Developors, adapting source code to fit environment and business needs"
   }],
   "autoload": {
     "classmap": [
@@ -20,7 +20,8 @@
       "src/FBAInventoryServiceMWS/",
       "src/FBAOutboundServiceMWS/",
       "src/MWSMerchantFulfillmentService/",
-      "src/MWSRecommendationsSectionService/"
+      "src/MWSRecommendationsSectionService/",
+      "src/MarketplaceWebServiceSellers/"
     ]
   }
 }
