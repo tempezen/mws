@@ -14,12 +14,13 @@
     "classmap": [
       "src/MarketplaceWebService/",
       "src/MarketplaceWebServiceOrders/",
+      "src/MarketplaceWebServiceProducts/",
       "src/MWSFinancesService/",
       "src/FBAInboundServiceMWS/",
       "src/FBAInventoryServiceMWS/",
       "src/FBAOutboundServiceMWS/",
       "src/MWSMerchantFulfillmentService/",
-      "src/MarketplaceWebServiceProducts/"
+      "src/MWSRecommendationsSectionService/"
     ]
   }
 }
