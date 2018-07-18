@@ -150,7 +150,7 @@ invokeCancelFeedSubmissions($service, $request);
                         if ($feedSubmissionInfo->isSetSubmittedDate()) 
                         {
                             echo("                    SubmittedDate\n");
-                            echo("                        " . $feedSubmissionInfo->getSubmittedDate()->format(DATE_FORMAT) . "\n");
+                            echo("                        " . $feedSubmissionInfo->getSubmittedDate()->format('Y-m-d\TH:i:s\Z') . "\n");
                         }
                         if ($feedSubmissionInfo->isSetFeedProcessingStatus()) 
                         {
@@ -160,12 +160,12 @@ invokeCancelFeedSubmissions($service, $request);
                         if ($feedSubmissionInfo->isSetStartedProcessingDate()) 
                         {
                             echo("                    StartedProcessingDate\n");
-                            echo("                        " . $feedSubmissionInfo->getStartedProcessingDate()->format(DATE_FORMAT) . "\n");
+                            echo("                        " . $feedSubmissionInfo->getStartedProcessingDate()->format('Y-m-d\TH:i:s\Z') . "\n");
                         }
                         if ($feedSubmissionInfo->isSetCompletedProcessingDate()) 
                         {
                             echo("                    CompletedProcessingDate\n");
-                            echo("                        " . $feedSubmissionInfo->getCompletedProcessingDate()->format(DATE_FORMAT) . "\n");
+                            echo("                        " . $feedSubmissionInfo->getCompletedProcessingDate()->format('Y-m-d\TH:i:s\Z') . "\n");
                         }
                     }
                 } 

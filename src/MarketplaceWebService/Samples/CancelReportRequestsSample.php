@@ -149,17 +149,17 @@ $config = array (
                         if ($reportRequestInfo->isSetStartDate()) 
                         {
                             echo("                    StartDate\n");
-                            echo("                        " . $reportRequestInfo->getStartDate()->format(DATE_FORMAT) . "\n");
+                            echo("                        " . $reportRequestInfo->getStartDate()->format('Y-m-d\TH:i:s\Z') . "\n");
                         }
                         if ($reportRequestInfo->isSetEndDate()) 
                         {
                             echo("                    EndDate\n");
-                            echo("                        " . $reportRequestInfo->getEndDate()->format(DATE_FORMAT) . "\n");
+                            echo("                        " . $reportRequestInfo->getEndDate()->format('Y-m-d\TH:i:s\Z') . "\n");
                         }
                         if ($reportRequestInfo->isSetSubmittedDate()) 
                         {
                             echo("                    SubmittedDate\n");
-                            echo("                        " . $reportRequestInfo->getSubmittedDate()->format(DATE_FORMAT) . "\n");
+                            echo("                        " . $reportRequestInfo->getSubmittedDate()->format('Y-m-d\TH:i:s\Z') . "\n");
                         }
                         if ($reportRequestInfo->isSetReportProcessingStatus()) 
                         {

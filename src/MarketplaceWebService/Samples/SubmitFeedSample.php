@@ -213,7 +213,7 @@ EOD;
                         if ($feedSubmissionInfo->isSetSubmittedDate()) 
                         {
                             echo("                    SubmittedDate\n");
-                            echo("                        " . $feedSubmissionInfo->getSubmittedDate()->format('Y-m-d H:i:s') . "\n");
+                            echo("                        " . $feedSubmissionInfo->getSubmittedDate()->format('Y-m-d\TH:i:s\Z') . "\n");
                         }
                         if ($feedSubmissionInfo->isSetFeedProcessingStatus()) 
                         {
@@ -223,12 +223,12 @@ EOD;
                         if ($feedSubmissionInfo->isSetStartedProcessingDate()) 
                         {
                             echo("                    StartedProcessingDate\n");
-                            echo("                        " . $feedSubmissionInfo->getStartedProcessingDate()->format('Y-m-d H:i:s') . "\n");
+                            echo("                        " . $feedSubmissionInfo->getStartedProcessingDate()->format('Y-m-d\TH:i:s\Z') . "\n");
                         }
                         if ($feedSubmissionInfo->isSetCompletedProcessingDate()) 
                         {
                             echo("                    CompletedProcessingDate\n");
-                            echo("                        " . $feedSubmissionInfo->getCompletedProcessingDate()->format('Y-m-d H:i:s') . "\n");
+                            echo("                        " . $feedSubmissionInfo->getCompletedProcessingDate()->format('Y-m-d\TH:i:s\Z') . "\n");
                         }
                     } 
                 } 

@@ -152,7 +152,7 @@ $config = array (
                         if ($reportSchedule->isSetScheduledDate()) 
                         {
                             echo("                    ScheduledDate\n");
-                            echo("                        " . $reportSchedule->getScheduledDate()->format(DATE_FORMAT) . "\n");
+                            echo("                        " . $reportSchedule->getScheduledDate()->format('Y-m-d\TH:i:s\Z') . "\n");
                         }
                     }
                 } 

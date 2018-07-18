@@ -7,7 +7,7 @@
     <FeedSubmissionInfo>
       <FeedSubmissionId>string</FeedSubmissionId>
       <FeedType>string</FeedType>
-      <SubmittedDate>string</SubmittedDate>
+      <SubmittedDate>2008-09-28T17:49:45</SubmittedDate>
       <FeedProcessingStatus>string</FeedProcessingStatus>
       <!--Optional:-->
       <StartedProcessingDate>2007-10-25T23:36:28</StartedProcessingDate>

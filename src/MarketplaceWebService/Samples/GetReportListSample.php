@@ -160,7 +160,7 @@ $config = array (
                         if ($reportInfo->isSetAvailableDate()) 
                         {
                             echo("                    AvailableDate\n");
-                            echo("                        " . $reportInfo->getAvailableDate()->format(DATE_FORMAT) . "\n");
+                            echo("                        " . $reportInfo->getAvailableDate()->format('Y-m-d\TH:i:s\Z') . "\n");
                         }
                         if ($reportInfo->isSetAcknowledged()) 
                         {
@@ -170,7 +170,7 @@ $config = array (
                         if ($reportInfo->isSetAcknowledgedDate()) 
                         {
                             echo("                    AcknowledgedDate\n");
-                            echo("                        " . $reportInfo->getAcknowledgedDate()->format(DATE_FORMAT) . "\n");
+                            echo("                        " . $reportInfo->getAcknowledgedDate()->format('Y-m-d\TH:i:s\Z') . "\n");
                         }
                     }
                 } 
