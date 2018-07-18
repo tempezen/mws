@@ -425,6 +425,6 @@ class  MarketplaceWebService_Mock implements MarketplaceWebService_Interface
 
     private function invoke($actionName)
     {
-        return $xml = file_get_contents('MarketplaceWebService/Mock/' . $actionName . 'Response.xml', /** search include path */ TRUE);
+        return $xml = file_get_contents(dirname(__FILE__) . '/Mock/' . $actionName . 'Response.xml', /** search include path */ TRUE);
     }
 }
