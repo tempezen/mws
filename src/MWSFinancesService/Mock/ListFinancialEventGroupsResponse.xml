@@ -5,7 +5,7 @@
         <FinancialEventGroupList>
             <FinancialEventGroup>
                 <FinancialEventGroupId>String</FinancialEventGroupId>
-                <ProcessingStatus>String</ProcessingStatus>
+                <ProcessingStatus>_DONE_</ProcessingStatus>
                 <FundTransferStatus>String</FundTransferStatus>
                 <OriginalTotal>
                     <CurrencyCode>String</CurrencyCode>

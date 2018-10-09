@@ -5,7 +5,7 @@
       <FeedSubmissionId>string</FeedSubmissionId>
       <FeedType>string</FeedType>
       <SubmittedDate>2008-09-28T17:49:45</SubmittedDate>
-      <FeedProcessingStatus>string</FeedProcessingStatus>
+      <FeedProcessingStatus>_DONE_</FeedProcessingStatus>
       <!--Optional:-->
       <StartedProcessingDate>2008-09-28T18:49:45</StartedProcessingDate>
       <!--Optional:-->
